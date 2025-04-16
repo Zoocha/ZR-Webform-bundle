@@ -1,0 +1,9 @@
+name: 'ZR Webform Bundle'
+description: 'Adds webform module'
+type: 'Feature'
+
+install:
+  - webform
+
+config:
+  strict: false
