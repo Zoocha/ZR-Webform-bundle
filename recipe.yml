@@ -4,6 +4,7 @@ type: 'Feature'
 
 install:
   - webform
+  - webform_ui
 
 config:
   strict: false
