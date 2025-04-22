@@ -7,7 +7,7 @@ To install the ZR Webform Bundle, follow the steps below:
     "web/recipes/custom/{$name}": ["type:drupal-recipe"]
     ```
 2. Run `composer require zr/zr-webform-bundle`
-3. Run the following command:
+3. Run the following command (within `/web` directory):
 
     ```sh
     ddev drush recipe recipes/custom/zr-webform-bundle
